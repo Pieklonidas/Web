@@ -1,3 +1,7 @@
+/*
+	From Ania Kubów tutorial from this series -> https://www.youtube.com/watch?v=TpAwggQJPUQ
+*/
+
 document.addEventListener('DOMContentLoaded', () =>{
 	const userGrid = document.querySelector('.grid-user')
 	const computerGrid = document.querySelector('.grid-computer')
